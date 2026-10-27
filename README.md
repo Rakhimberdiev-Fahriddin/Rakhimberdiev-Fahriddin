@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://t.me/Raximberdiyev_Faxriddin"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0" /></a>
-  <a href="https://www.linkedin.com/in/fahriddin-rahimberdiyev-302aab2a6/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Rakhimberdiev-Fahriddin&style=for-the-badge&color=00ADD8&label=PROFILE+VIEWS" />
+  <a href="https://www.linkedin.com/in/fahriddin-rahimberdiyev-302aab2a6/"><img src="https://img.shields.io/badge/in%20LinkedIn-0A66C2?style=for-the-badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rakhimberdiev-Fahriddin&style=for-the-badge&color=00ADD8&label=PROFILE+VIEWS&labelColor=0d1117" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ var fahriddin = Developer{
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakhimberdiev-Fahriddin&bg_color=0d1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&area_color=00ADD8&hide_border=true" width="98%" />
+  <img src="https://ghchart.rshah.org/00ADD8/Rakhimberdiev-Fahriddin" width="95%" alt="contribution chart" />
 </p>
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
